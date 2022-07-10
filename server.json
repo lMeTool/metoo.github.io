@@ -1,0 +1,1597 @@
+{
+  "LiteMenu": [
+    {
+      "name": "Брускетта с овощами гриль",
+      "type": "Завтрак",
+      "description": "Брускетта (bruschetta) — это итальянская закуска, которая традиционно подается перед основными блюдами. Отличие брускеты от бутерброда заключается в том, что хлеб для брускеты, как правило, поджаривают на сковороде без масла, на решетке или на гриле.",
+      "compound": "Жареный хлеб, (какие-то овощи),вяленый тома, сыр Фета",
+      "img": "Server/img/brusketta_s_ovoshchami_gril.jpg",
+      "weight": "210",
+      "price": "165"
+    },
+    {
+      "name": "Брускетта с беконом",
+      "type": "Завтрак",
+      "description": "Брускетта (bruschetta) — это итальянская закуска, которая традиционно подается перед основными блюдами. Отличие брускеты от бутерброда заключается в том, что хлеб для брускеты, как правило, поджаривают на сковороде без масла, на решетке или на гриле",
+      "compound": "Бекон, багет, жареные яйца",
+      "img": "Server/img/brusketta_s_bekonom_i_zharenym_yaycom.jpg",
+      "weight": "180",
+      "price": "165"
+    },
+    {
+      "name": "Рисовая каша",
+      "type": "Завтрак",
+      "description": "Рисовая каша на кокосовом молоке с клубничным вареньем",
+      "compound": "Рис, варенье",
+      "img": "Server/img/risovaya_kasha.jpg",
+      "weight": "250",
+      "price": "155"
+    },
+    {
+      "name": "Горячий бутерброд",
+      "type": "Завтрак",
+      "description": "Горячие бутерброды нагревают в процессе приготовления и употребляют в горячем виде. Примеры — бутерброд с расплавленным твёрдым сыром,",
+      "compound": "Хлеб, ветчина, сыр Чедр",
+      "img": "Server/img/goryachiy_buterbrod_s_vetchinoy_i_syrom_chedder.jpg",
+      "weight": "160",
+      "price": "140"
+    },
+    {
+      "name": "Омлет",
+      "type": "Завтрак",
+      "description": "Омле́т (фр. Omelette) — яичница, к которой добавляется молоко[1] или другая жидкость[2], например, вода, сливки, бульон, отвар, сок и, в ряде рецептов, небольшое количество какой-либо муки, например, пшеничной, овсяной, гречневой, ячневой, ржаной, картофельной, гороховой. Эти компоненты взбиваются вместе с яйцами и жидкостью до тепловой обработки. Тепловая обработка может заключаться в поджаривании на сковороде, запекании в духовке или приготовления на водяной бане.",
+      "compound": "Яйцо, ветчина, грибы",
+      "img": "Server/img/omlet_s_vetchinoy_i_gribami.jpg",
+      "weight": "250",
+      "price": "165"
+    },
+    {
+      "name": "Глазунья",
+      "type": "Завтрак",
+      "description": "Жареное яйцо с беконом и помидорами",
+      "compound": "яйцо, бекон., помидоры",
+      "img": "Server/img/glazunya.jpg",
+      "weight": "120/90/40",
+      "price": "235"
+    },
+    {
+      "name": "Овсяная каша",
+      "type": "Завтрак",
+      "description": "Овсяная каша с черносливом и кедровыми орешками",
+      "compound": "овсянка, черносли, кедровый орех",
+      "img": "Server/img/ovsyanaya_kasha_s_chernoslivom_i_kedrovymi_oreshkami.jpg",
+      "weight": "280",
+      "price": "245"
+    },
+    {
+      "name": "Шашлык из свиной шеи",
+      "type": "Мангал",
+      "description": "Шашлык из свиной шеи",
+      "compound": "Шашлык, наполнение,",
+      "weight": "120/100",
+      "price": "250",
+      "img": "Server/img/shashlyk_iz_svininy_1.jpg"
+    },
+    {
+      "name": "Шашлык из куриного филе",
+      "type": "Мангал",
+      "description": "Шашлык из курицы",
+      "compound": "Куринное филе, наполнение",
+      "weight": "120/100",
+      "price": "195",
+      "img": "Server/img/shashlyk_iz_kurinogo_file_0.jpg"
+    },
+    {
+      "name": "Люля из курицы",
+      "type": "Мангал",
+      "description": "Люля́-кеба́б (kabab — жареное мясо) — блюдо кухонь разных стран Ближнего Востока в виде мясного фарша, нанизанного на шампур и зажаренного на углях.",
+      "compound": "Куринный фарш, наполнение",
+      "weight": "100/100",
+      "price": "195",
+      "img": "Server/img/lyulya_iz_kuricy_2.jpg"
+    },
+    {
+      "name": "Люля из говядины",
+      "type": "Мангал",
+      "description": "Люля́-кеба́б (kabab — жареное мясо) — блюдо кухонь разных стран Ближнего Востока в виде мясного фарша, нанизанного на шампур и зажаренного на углях.",
+      "compound": "Говяжий фарш, наполнение",
+      "weight": "100/100",
+      "price": "195",
+      "img": "Server/img/lyulya_iz_govyadiny_1.jpg"
+    },
+    {
+      "name": "Шашлык из куринных крыльев",
+      "type": "Мангал",
+      "description": "Куринные крылья, приготовленные на мангале",
+      "compound": "Куринные крылья, наполнение",
+      "weight": "200/100",
+      "price": "175",
+      "img": "Server/img/shashlyk_kurinye_krylya.jpg"
+    },
+    {
+      "name": "Куринное филе в сырном кляре",
+      "type": "Горячее",
+      "description": "Кляр (от фр. clair — «жидкий», также панировочное тесто) — жидкое тесто для панирования продуктов. В кляр обмакивают разнообразные продукты в кусочках.",
+      "compound": "Филе курицы, сырный кляр",
+      "weight": "150",
+      "price": "175",
+      "img": "Server/img/kurinoe_file_v_syrnom_klyare.jpg"
+    },
+    {
+      "name": "Котлета из белорыбицы",
+      "type": "Горячее",
+      "description": "Белорыбица - рыба семейства семговых, с белым мясомю.",
+      "compound": "Рыбий фарш",
+      "weight": "150/150",
+      "price": "175",
+      "img": "Server/img/kotleta_iz_belorybicy.jpg"
+    },
+    {
+      "name": "Филе форели(с помидорами и зеленью в лаваше)",
+      "type": "Горячее",
+      "description": "Филе форели завернутое в лаваш и поданное с ловашем",
+      "compound": "Филе форели, овощи, лаваш",
+      "weight": "300",
+      "price": "415",
+      "img": "Server/img/fide_foreli_v_lavashe.jpg"
+    },
+    {
+      "name": "Вок с мидиями",
+      "type": "Горячее",
+      "description": "Лапша с мидиями, кольмарами в устречном соусе",
+      "compound": "Лапша, кальмары, устречный соус",
+      "weight": "300",
+      "price": "220",
+      "img": "Server/img/vok_s_midiyami.jpg"
+    },
+    {
+      "name": "Вок со свининой",
+      "type": "Горячее",
+      "description": "Лапша со свинниной, древесными грибами в азиатских соусах",
+      "compound": "Лапша, свинина, древесные грибы, соус",
+      "weight": "300",
+      "price": "220",
+      "img": "Server/img/vok_so_svininoy.jpg"
+    },
+    {
+      "name": "Из пекинской капусты",
+      "type": "Салат",
+      "description": "Салат их пекинской капусты с яблоком и моченой брусникой",
+      "compound": "Пекинская капуста, яблоко,  брусника",
+      "weight": "160",
+      "price": "125",
+      "img": "Server/img/salat_s_pekinskoy_kapustoy.jpg"
+    },
+    {
+      "name": "Оливье",
+      "type": "Салат",
+      "description": "Оливье с ветчиной из индейки",
+      "compound": "Яйцо, огурцы, ветчина,горох,картошка.морковь",
+      "weight": "160",
+      "price": "115",
+      "img": "Server/img/olive_s_vetchinoy_i_indeyki.jpg"
+    },
+    {
+      "name": "Салат с краковской колбасой",
+      "type": "Салат",
+      "description": "На листьях салата соломкой порезана колбаса и сдоблена яйцом",
+      "compound": "Листья салата, яйцо, колбаса",
+      "weight": "160",
+      "price": "165",
+      "img": "Server/img/salat_s_krakovskoy_kolbasoy.jpg"
+    },
+    {
+      "name": "Салат с копченой курицей",
+      "type": "Салат",
+      "description": "Салат с копченой курицей, шампиньонами, свежим огурцом под соусом Француз",
+      "compound": "Листья салата, копченая курица, шампиньоны, свежий огурец, соус",
+      "weight": "150",
+      "price": "165",
+      "img": "Server/img/s_kopchenoy_kuricey_shampinonami.jpg"
+    },
+    {
+      "name": "Салат с семгой",
+      "type": "Салат",
+      "description": "Ожареная семга небольшими кусками, листья салата, печеная свекла и немного крем-сыра",
+      "compound": "Семга, свекла, салат, крем-сыр",
+      "weight": "170",
+      "price": "345",
+      "img": "Server/img/salat_s_semgoy_pechenoy_svekloy.jpg"
+    },
+    {
+      "name": "Картофель печёный",
+      "type": "Гарнир",
+      "description": "Запеченый в духовке картофель, нарезанный плостами",
+      "compound": "картофель",
+      "weight": "200",
+      "price": "65",
+      "img": "Server/img/kartofel_pechenyy_1.jpg"
+    },
+    {
+      "name": "Картофельное пюре",
+      "type": "Гарнир",
+      "description": "Толченый картофель",
+      "compound": "Картофель",
+      "weight": "150",
+      "price": "80",
+      "img": "Server/img/frame_39-min.jpg"
+    },
+    {
+      "name": "Овощи на гриле",
+      "type": "Гарнир",
+      "description": "Овощи обжаренные на гриле ",
+      "compound": "Перец, баклажан",
+      "weight": "150",
+      "price": "195",
+      "img": "Server/img/ovoshchi_na_grile_0.jpg"
+    },
+    {
+      "name": "Броколи",
+      "type": "Гарнир",
+      "description": "Броколи с чесноком и тимьяном",
+      "compound": "Броколи, чеснок, тимьян",
+      "weight": "150",
+      "price": "130",
+      "img": "Server/img/brokoli.jpg"
+    },
+    {
+      "name": "Рис с овощами",
+      "type": "Гарнир",
+      "description": "Рис с овощами",
+      "compound": "---",
+      "weight": "150",
+      "price": "100",
+      "img": "Server/img/ris_s_odvoshami.jpg"
+    },
+    {
+      "name": "Курица и грибы",
+      "type": "Пицца",
+      "description": "Пицца с копченой курицей. 30см",
+      "compound": "Курица, копченая, шампиньоны,сыр,соленый огурец",
+      "weight": "400",
+      "price": "390",
+      "img": "Server/img/picca_kurica_i_griby_1.jpg"
+    },
+    {
+      "name": "пицца с охотничьими колбасками",
+      "type": "Пицца",
+      "description": "Пицца с охотничьими колбасками.30см",
+      "compound": "Охотничьи колбаски, маринованный огурец,сыр чеддер",
+      "weight": "450",
+      "price": "455",
+      "img": "Server/img/picca_s_ohotnichimi_kolbaskami.jpg"
+    },
+    {
+      "name": "Бульон с яйцом",
+      "type": "Суп",
+      "description": "Бульон с яйцом и куриными фрикадельками",
+      "compound": "Куриный бульон,яйцо,куриные фрикадельки",
+      "weight": "300",
+      "price": "115",
+      "img": "Server/img/bulon_s_yaycom_i_kurinymi_frikadelkami.jpg"
+    },
+    {
+      "name": "Щи из квашеной капусты",
+      "type": "Суп",
+      "description": "Щи из квашеной капусты со свининой ",
+      "compound": "Картошка,бульон, капуста квашеная, свинина, морковь",
+      "weight": "300",
+      "price": "170",
+      "img": "Server/img/shchi_iz_kvashenoy_kapusty_so_svininoy.jpg"
+    },
+    {
+      "name": "Крем-суп морковный",
+      "type": "Суп",
+      "description": "Крем суп из морковки с куриным паштетом и гренками",
+      "compound": "Морковный крем-суп, куриный паштет, сухарики",
+      "weight": "280/50",
+      "price": "175",
+      "img": "Server/img/krem_sup_morkovnyy_s_kurinym_pashtetom_i_grenkami.jpg"
+    },
+    {
+      "name": "Вишневый",
+      "type": "Десерт",
+      "description": "Шоколадный бисквит с вишневым конфи.",
+      "compound": "",
+      "weight": "85",
+      "price": "85",
+      "img": "Server/img/vishnevyy.jpg"
+    },
+    {
+      "name": "Наполеон",
+      "type": "Десерт",
+      "description": "Наполео́н — торт с масляным или заварным кремом с слоеным тестом(тысяча слоев)",
+      "compound": "",
+      "weight": "90",
+      "price": "115",
+      "img": "Server/img/napoleon_s_brusnikoy.jpg"
+    },
+    {
+      "name": "Миндальный кекс",
+      "type": "Десерт",
+      "description": "Миндальный кекс",
+      "compound": "",
+      "weight": "80",
+      "price": "95",
+      "img": "Server/img/bd9ca8cd.jpg"
+    },
+    {
+      "name": "Тарталетка ягодная",
+      "type": "Десерт",
+      "description": "Тартале́тка (фр. tartelette — «маленький тарт») — выпечка в форме небольшой (до 10 см) корзинки, обычно из песочного теста для последующей начинки",
+      "compound": "",
+      "weight": "125",
+      "price": "125",
+      "img": "Server/img/tartaletka_yagodnaya_0.jpg"
+    }
+  ],
+  "GrandMenu": [
+    {
+      "name": "С курочкой терияки, свежим редисом и огурцом",
+      "type": "Салат",
+      "description": "Салат с курочкой терияки, свежим редисом и огурцом",
+      "compound": "Салат, курочка терияки, редис, огурец",
+      "weight": "200",
+      "price": "230",
+      "img": "Server/img/s_kurochkoy_teriyaki_svezhim_redisom_i_ogurcom.png"
+    },
+    {
+      "name": "Лухари Хаус",
+      "type": "Салат",
+      "description": "Салат с куриным филе, яйцом, чипсами, опятами и соленым огурцом",
+      "compound": "Куриное филе, опята, соленый огурец, чипсы",
+      "weight": "180",
+      "price": "225",
+      "img": "Server/img/luhari_haus.jpg"
+    },
+    {
+      "name": "С курочкой, грушей и сельдереем в соусе Песто",
+      "type": "Салат",
+      "description": "копченая курица, свежая груша, сельдерей, лист салата,соуспеста, кедровый орех",
+      "compound": "копченая курица, свежая груша, сельдерей, лист салата,соуспеста, кедровый орех",
+      "weight": "175",
+      "price": "245",
+      "img": "Server/img/salat_s_kurochkoy_grushey_i_seldereem_v_souse_pesto_.jpg"
+    },
+    {
+      "name": "Салат с утинным филе",
+      "type": "Салат",
+      "description": "",
+      "compound": "утиное филе, груша, апельсиновый соус Цитронет, салат",
+      "weight": "200",
+      "price": "270",
+      "img": "Server/img/s_utinnym_file_grushey_i_apelsinami_v_souse_citronet.png"
+    },
+    {
+      "name": "Цезарь с цыпленком",
+      "type": "Салат",
+      "description": "В классической версии основными ингредиентами салата являются пшеничные гренки, листья салата ромэн и тёртый пармезан, заправленные особым соусом, который и составляет суть рецепта. Основа заправки (соуса) «Цезарь» — свежие яйца (желтки), выдержанные 1 минуту в кипятке и охлаждённые. Яйца взбиваются с оливковым маслом и приправляются чесноком, лимонным соком и вустерским соусом. В классическом виде салат получается довольно лёгким, поэтому к нему часто добавляют более калорийные продукты, например, варёную или жареную курицу.",
+      "compound": "Сухарики, помидоры черри, сыр, листья салата, мясо цыпленка",
+      "weight": "200",
+      "price": "245",
+      "img": "Server/img/cezar_cyplenok_0.jpg"
+    },
+    {
+      "name": "Баклажан фри с томатами и сыром",
+      "type": "Салат",
+      "description": "Обжареный во фритюре баклажан, помидоры и сыр",
+      "compound": "Баклажан, томаты, сыр",
+      "weight": "180",
+      "price": "250",
+      "img": "Server/img/baklazhan_fri_s_tomatami_i_syrom.jpg"
+    },
+    {
+      "name": "С копчёным кальмаром, древесными грибами и свежим огурцом",
+      "type": "Салат",
+      "description": "",
+      "compound": "Филе кальмара, древесные грибы, огурцы свежие, лист салата, майонез грибной, икра мойвы",
+      "weight": "210",
+      "price": "325",
+      "img": "Server/img/salat_s_kopchenym_kalmarom_drevesnymi_gribami_i_svezhim_ogurcom.jpg"
+    },
+    {
+      "name": "С ростбифом и грушей",
+      "type": "Салат",
+      "description": "",
+      "compound": "Груша томлёная, ростбиф, лист салата, черри, сыр Дор-блю, медово-горчичная заправка",
+      "weight": "170",
+      "price": "365",
+      "img": "Server/img/S_rostbifom_i_grushey.jpg"
+    },
+    {
+      "name": "С форелью горячего копчения",
+      "type": "Салат",
+      "description": "",
+      "compound": "Форель, апельсин, лист салата, перец болгарский, картофель пай, соус медовая горчица",
+      "weight": "200",
+      "price": "250",
+      "img": "Server/img/salat_s_forelyu_goryachego_kopcheniya_.jpg"
+    },
+    {
+      "name": "С говяжьим языком, маринованными огурчиками и томатами конкассе",
+      "type": "Салат",
+      "description": "",
+      "compound": "Язык говяжий, огурец маринованный,опята маринованные, помидоры конкассе, лист салата, соус Француз, яйцо отварное",
+      "weight": "190",
+      "price": "290",
+      "img": "Server/img/salat-s-govyazim-yazikom-770x513.jpg"
+    },
+    {
+      "name": "С арбузом, фетой и оливками Каламата",
+      "type": "Салат",
+      "description": "Салат с арбузом, фетой и оливками Каламата",
+      "compound": "",
+      "weight": "190",
+      "price": "355",
+      "img": "Server/img/s_arbuzom_fetoy_i_olivkami_kalamata_.png"
+    },
+    {
+      "name": "С запечённым брискетом, помидорами черри и ореховым соусом",
+      "type": "Салат",
+      "description": "Брискет - это отруб говядины, состоящий из большой и малой грудных мышц, снятых с ребер",
+      "compound": "Запеченный брискет,черри,ореховый соус",
+      "weight": "200",
+      "price": "335",
+      "img": "Server/img/CHBRKV-IMG_0115.jpg"
+    },
+    {
+      "name": "Тогараши с семгой",
+      "type": "Салат",
+      "description": "",
+      "compound": "Семга, огурец, оливки, лист салата, соус Шичими",
+      "weight": "160",
+      "price": "380",
+      "img": "Server/img/togarashi_s_semgoy.jpg"
+    },
+    {
+      "name": "Оливье с креветкой и икрой Масаго",
+      "type": "Салат",
+      "description": "Картофель отварной, морковь, огурец свежий, горошек зеленый, креветка, домашний майонез с васаби, икра мойвы",
+      "compound": "Картофель отварной, морковь, огурец свежий, горошек зеленый, креветка, домашний майонез с васаби, икра мойвы",
+      "weight": "200",
+      "price": "430",
+      "img": "Server/img/olive_s_krevetkoy_i_ikroy_masago_.jpg"
+    },
+    {
+      "name": "Салат из свежих овощей",
+      "type": "Салат",
+      "description": "Моцарелла, кедровык орешки, в соусе Песто",
+      "compound": "",
+      "weight": "210",
+      "price": "420",
+      "img": "Server/img/salat_iz_svezhih_ovoshchey.png"
+    },
+    {
+      "name": "Сыр и свекла",
+      "type": "Салат",
+      "description": "Свекла, сыр, лист салата, бальзамическая заправка",
+      "compound": "",
+      "weight": "150",
+      "price": "380",
+      "img": "Server/img/7гл.-e1583409675536.jpg"
+    },
+    {
+      "name": "Цезарь с рыбой",
+      "type": "Салат",
+      "description": "Семга, сухарики, помидоры, лист салата, сыр",
+      "compound": "",
+      "weight": "200",
+      "price": "430",
+      "img": "Server/img/cezar_ryba_0.jpg"
+    },
+    {
+      "name": " Салат с лососем слабой соли, киноа и свежими овощами",
+      "type": "Салат",
+      "description": " Салат с лососем слабой соли, киноа и свежими овощами",
+      "compound": "",
+      "weight": "195",
+      "price": "445",
+      "img": "Server/img/s_lososem_slaboy_soli_kinoa_i_svezhimi_ovoshchami_.png"
+    },
+    {
+      "name": "Салат с жареными лангустинами",
+      "type": "Салат",
+      "description": "Ананас, сладкий перце в соусе Манго-маракуйя",
+      "compound": "",
+      "weight": "200",
+      "price": "390",
+      "img": "Server/img/s_zharennymi_langustinami.png"
+    },
+    {
+      "name": "Салат с копченным угрем, печёным перцем и свежим огурцом",
+      "type": "Салат",
+      "description": "Салат с копченным угрем, печёным перцем и свежим огурцом",
+      "compound": "",
+      "weight": "195",
+      "price": "570",
+      "img": "Server/img/s_kopchennym_ugrem_pechenym_percem_i_svezhim_ogurcom.png"
+    },
+    {
+      "name": "Томаты с сыром Фета, красным луком и свежим кориандром",
+      "type": "Закуска",
+      "description": "Томаты с сыром Фета, красным луком и свежим кориандром",
+      "compound": "",
+      "weight": "240",
+      "price": "255",
+      "img": "Server/img/tomaty_s_syrom_feta_krasnym_lukom_i_svezhim_koriandrom_.png"
+    },
+    {
+      "name": "Свежие овощи с сырным кремом",
+      "type": "Закуска",
+      "description": "Свежие овощи с сырным кремом",
+      "compound": "Морковь, огурец, авакадо, балгарский перез, редис, крем сыр",
+      "weight": "200/50",
+      "price": "265",
+      "img": "Server/img/svezhie_ovoshchi_s_syrnym_kremom_.png"
+    },
+    {
+      "name": "Бастурма из говядины",
+      "type": "Закуска",
+      "description": "Бастурма -  вяленая вырезка из разных видов мяса",
+      "compound": "",
+      "weight": "80",
+      "price": "345",
+      "img": "Server/img/basturma_iz_govyadiny.jpg"
+    },
+    {
+      "name": "Утиная грудка горячего копчения",
+      "type": "Закуска",
+      "description": "Утиная грудка горячего копчения с салатом из ананаса и вяленой вишни с соусом Малиновый винегрет",
+      "compound": "",
+      "weight": "70/90",
+      "price": "360",
+      "img": "Server/img/utinaya_grudka_goryachego_kopcheniya_s_salatom_iz_ananasa_i_vyalenoy_vishni_s_sousom_malinovyy_vinegret_.png"
+    },
+    {
+      "name": "Подкопченная свиная шейка",
+      "type": "Закуска",
+      "description": "Подкопченная свиная шейка с малосольными огурчиками и печеным картофелем",
+      "compound": "",
+      "weight": "100/80/100",
+      "price": "360",
+      "img": "Server/img/podkopchennaya_svinaya_sheyka_s_malosolnymi_ogurchikami_i_pechenym_kartofelem.png"
+    },
+    {
+      "name": "Хумус",
+      "type": "Закуска",
+      "description": "Хумус с томатной сальсой и зернами граната. Хумус закуска из нутового пюре, в состав которой обычно входят кунжутная паста (тахи́ни), оливковое масло, чеснок, сок лимона, паприка",
+      "compound": "",
+      "weight": "250/40",
+      "price": "300",
+      "img": "Server/img/humus_s_tomatnoy_salsoy_i_zernami_granata_.png"
+    },
+    {
+      "name": "Ассорти пхали",
+      "type": "Закуска",
+      "description": "Ассорти пхали из баклажанов, свёклы и шпината.Пхали — это традиционная грузинская закуска на основе орехов, различных овощей или зелени и специй",
+      "compound": "",
+      "weight": "210/50",
+      "price": "415",
+      "img": "Server/img/assorti_phali_iz_baklazhanov_svyokly_i_shpinata_.png"
+    },
+    {
+      "name": "Ассорти солений",
+      "type": "Закуска",
+      "description": "Соленые помидоры черри, битые огурцы, маринованная капуста, маринованые опята",
+      "compound": "",
+      "weight": "300",
+      "price": "340",
+      "img": "Server/img/ZHUK4902.jpg"
+    },
+    {
+      "name": "Паштет из форели",
+      "type": "Закуска",
+      "description": "Паштет из форели с поджаренным багетом на чесночном масле",
+      "compound": "",
+      "weight": "120/40",
+      "price": "420",
+      "img": "Server/img/pashtet-iz-foreli-s-golubym-syrom-i-krasnoj-ikroj.jpg"
+    },
+    {
+      "name": "Мясно ассорти",
+      "type": "Закуска",
+      "description": "Телячий язык, буженина, телячий ростбиф",
+      "compound": "",
+      "weight": "120/50",
+      "price": "390",
+      "img": "Server/img/myasnoe_assorti.jpg"
+    },
+    {
+      "name": "Сырная тарелка",
+      "type": "Закуска",
+      "description": "Пармезан, Дор-блю, сыр Бри",
+      "compound": "",
+      "weight": "110/50",
+      "price": "450",
+      "img": "Server/img/kak-samostoyatelno-oformit-i-ukrasit-syrnuju-tarelku.jpg"
+    },
+    {
+      "name": "Рулетики из баклажанов",
+      "type": "Закуска",
+      "description": "Рулетики из баклажанов с сырно-чесночным муссом",
+      "compound": "",
+      "weight": "160",
+      "price": "450",
+      "img": "Server/img/ruletiki_iz_baklazhan.jpg"
+    },
+    {
+      "name": "Моцарелла со свежей клубникой и бальзамической икрой ",
+      "type": "Закуска",
+      "description": "Моцарелла со свежей клубникой и бальзамической икрой ",
+      "compound": "",
+      "weight": "170",
+      "price": "410",
+      "img": "Server/img/mocarella_so_svezhey_klubnikoy_i_balzamicheskoy_ikroy_.png"
+    },
+    {
+      "name": "Ассорти вяленых домашних деликатесов",
+      "type": "Закуска",
+      "description": "Бастурма, говядина вяленая в специях, куриная грудка вяленая, свиная шейка маринованная ",
+      "compound": "",
+      "weight": "130/50",
+      "price": "555",
+      "img": "Server/img/assorti_vyalenyh_domashnih_delikatesov_.jpg"
+    },
+    {
+      "name": "Рыбный дуэт",
+      "type": "Закуска",
+      "description": "Семга, муксун",
+      "compound": "",
+      "weight": "120/30",
+      "price": "575",
+      "img": "Server/img/rybnyy_duet.jpg"
+    },
+    {
+      "name": "Севиче из дорадо",
+      "type": "Закуска",
+      "description": "Севиче из дорадо с грейпфрутом и перцем чили. Севиче -  блюдо из рыбы или морепродуктов",
+      "compound": "",
+      "weight": "150",
+      "price": "650",
+      "img": "Server/img/612020.jpg"
+    },
+    {
+      "name": "Буратта с пряной грушей",
+      "type": "Закуска",
+      "description": "Буррату – шелковистый сырный «мешочек».Буратта с пряной грушей, руколой и малиновым желе",
+      "compound": "",
+      "weight": "215",
+      "price": "690",
+      "img": "Server/img/buratta_s_pryanoy_grushey_rukkoloy_i_malinovym_zhele.png"
+    },
+    {
+      "name": "Лосось шеф-посола с жареным картофелем",
+      "type": "Закуска",
+      "description": "Филе семги, картофель отварной, лук репчатый, чеснок, зелень, маслины, помидоры черри",
+      "compound": "",
+      "weight": "100/100",
+      "price": "710",
+      "img": "Server/img/losos_shef-posola_s_zharenym_kartofelem_.jpg"
+    },
+    {
+      "name": "Отварные лангустины ",
+      "type": "Закуска",
+      "description": "Лангустин, или дублинская креветка, норвежский омар, скампи,",
+      "compound": "",
+      "weight": "250/15",
+      "price": "950",
+      "img": "Server/img/hndOLAONMegVxVBn94uHUSCYoD0N7dR7FhbSJzFI-dk.jpg"
+    },
+    {
+      "name": "Гарлики",
+      "type": "Горячая закуска",
+      "description": "Гарлики — это пикантная закуска из черного хлеба, которая подходит и к пиву, и к обеду. По сути — это гренки с чесночным маслом и солью",
+      "compound": "",
+      "weight": "100",
+      "price": "150",
+      "img": "Server/img/garliki.jpg"
+    },
+    {
+      "name": "Овощи темпура",
+      "type": "Горячая закуска",
+      "description": "Овощи темпура с йогуртовым соусом.Тэмпура (яп. 天麩羅 тэмпура) — категория блюд японской кухни из рыбы, морепродуктов и овощей, приготовленных в кляре и обжаренных во фритюре",
+      "compound": "",
+      "weight": "200/50",
+      "price": "245",
+      "img": "Server/img/ovoshchi_tempura_s_yogurtovym_sousom_.png"
+    },
+    {
+      "name": "Пита с сочным салатом",
+      "type": "Горячая закуска",
+      "description": "Пита с сочным салатом и курочкой в соусе «Сладкий чили». Пи́та (греч. πίτα, тур. pide, ивр. \u200Fפיתא\u200F\u200E) — круглый, плоский хлеб, который выпекают как из обойной муки, так и из пшеничной муки высшего сорта",
+      "compound": "",
+      "weight": "220",
+      "price": "250",
+      "img": "Server/img/jpg_1000_d556335e-86ae-43b8-b092-77230476ad18.jpg"
+    },
+    {
+      "name": "Буффало чикен",
+      "type": "Горячая закуска",
+      "description": "Буффало чикен с острым томатным соусом.Куриные крылья жарят во фритюре и окунают в острый соус из уксуса, кайенского перца и расплавленного сливочного масла",
+      "compound": "",
+      "weight": "230/50",
+      "price": "280",
+      "img": "Server/img/buffalo_chiken_s_ostrym_tomatnym_sousom.png"
+    },
+    {
+      "name": "Картофель по-азиатски",
+      "type": "Горячая закуска",
+      "description": "с азиатским соусом. Картофель либо в кляре либо в крахмале прожареный во фритюре",
+      "compound": "",
+      "weight": "200",
+      "price": "220",
+      "img": "Server/img/kartofel_po-aziatski.jpg"
+    },
+    {
+      "name": "Хрустящие баклажаны с курицей",
+      "type": "Горячая закуска",
+      "description": "Хрустящие баклажаны с курицей в азиатском соусе с жаренным арахисом",
+      "compound": "",
+      "weight": "200",
+      "price": "225",
+      "img": "Server/img/hrustyashchie_baklazhany_s_kuricey_v_aziatskom_souse_s_zharennym_arahisom_.png"
+    },
+    {
+      "name": "Кальмар фри",
+      "type": "Горячая закуска",
+      "description": "Кальмары в кляре обжареные во фритюре. С чесночным соусом",
+      "compound": "",
+      "weight": "160",
+      "price": "235",
+      "img": "Server/img/kalmar_fri.jpg"
+    },
+    {
+      "name": "Сыр фри",
+      "type": "Горячая закуска",
+      "description": "Сыр моцарелла, подается с чесночным соусом",
+      "compound": "",
+      "weight": "150",
+      "price": "250",
+      "img": "Server/img/sir_fri.jpg"
+    },
+    {
+      "name": "Харумаки с птицей",
+      "type": "Горячая закуска",
+      "description": "Куриное филе, томаты, сыр.Харумаки – это весенние блинчики. Их называют так, потому что они традиционно готовятся в первый день Китайского Нового года",
+      "compound": "",
+      "weight": "180",
+      "price": "300",
+      "img": "Server/img/harumaki_s_pticey_0.jpg"
+    },
+    {
+      "name": "Тортилья с копченой форелью",
+      "type": "Горячая закуска",
+      "description": "Тортилья с копченой форелью и соусом спайси",
+      "compound": "",
+      "weight": "220",
+      "price": "325",
+      "img": "Server/img/tortilya_s_krevetkoy.png"
+    },
+    {
+      "name": "Баклажаны в сладком чили",
+      "type": "Горячая закуска",
+      "description": "Баклажаны в сладком чили",
+      "compound": "",
+      "weight": "220",
+      "price": "250",
+      "img": "Server/img/maxresdefault.jpg"
+    },
+    {
+      "name": "Пивной сет",
+      "type": "Горячая закуска",
+      "description": "Домашние картофельные чипсы, картофель фри, гарлики и арахис",
+      "compound": "",
+      "weight": "450",
+      "price": "325",
+      "img": "Server/img/pivnoy_set.jpg"
+    },
+    {
+      "name": "Тортилья с салатом цезарь и креветкой",
+      "type": "Горячая закуска",
+      "description": "Тортилья - кукурузная мексиканская лепешка",
+      "compound": "",
+      "weight": "245",
+      "price": "440",
+      "img": "Server/img/tortilya_s_kurinym_file.png"
+    },
+    {
+      "name": "Креветки темпура",
+      "type": "Горячая закуска",
+      "description": "Креветки темпура с тайским соусом Сладкий чили",
+      "compound": "",
+      "weight": "180",
+      "price": "435",
+      "img": "Server/img/krevetki_tempura.jpg"
+    },
+    {
+      "name": "Харумаки с сëмгой",
+      "type": "Горячая закуска",
+      "description": "Блинчики с семгой. Семга, муксун, имбир, сыр",
+      "compound": "",
+      "weight": "180",
+      "price": "490",
+      "img": "Server/img/harumaki_s_semgoy.jpg"
+    },
+    {
+      "name": "Запеченные мидии",
+      "type": "Горячая закуска",
+      "description": "Запеченные мидии под сыром Блю-чиз",
+      "compound": "",
+      "weight": "300",
+      "price": "375",
+      "img": "Server/img/zapechenye_midii_pod_syrom_blyu-chiz.png"
+    },
+    {
+      "name": "Камамбер",
+      "type": "Горячая закуска",
+      "description": "Камамбер жаренный в миндальных хлопьях с клубничным вареньем",
+      "compound": "",
+      "weight": "150/50",
+      "price": "630",
+      "img": "Server/img/kamamber_zharennyy_v_mindalnyh_hlopyah_s_klubnichnym_varenem.png"
+    },
+    {
+      "name": "Вок курица терияки",
+      "type": "Закуска с тестом",
+      "description": "Вок - емкость. Лапша в воке с курицей",
+      "compound": "Курица, лапша, овощи",
+      "weight": "350",
+      "price": "275",
+      "img": "Server/img/vok_kurica_teriyaki.jpg"
+    },
+    {
+      "name": "Тако с куриным филе",
+      "type": "Закуска с тестом",
+      "description": "Тако состоит из кукурузной или пшеничной тортильи c разнообразной начинкой",
+      "compound": "Куриное филе, салатный лист, болгарский перец, соус Терияки, сыр",
+      "weight": "2 шт",
+      "price": "330",
+      "img": "Server/img/tako_s_kurinym_file.jpg"
+    },
+    {
+      "name": "Фетучини с охотничьими колбасками",
+      "type": "Закуски с тестом",
+      "description": "етучини — это тонкие плоские полоски теста шириной около 7 мм: они похожи на тальятелле, от которых отличаются только большей шириной.",
+      "compound": "Охотничьи колбаски, томатный соус, лапша, сыр",
+      "weight": "400",
+      "price": "395",
+      "img": "Server/img/fetuchini_s_ohotnichimi_kolbaskami_s_bolgarskim_percem_v_tomatnom_souse.png"
+    },
+    {
+      "name": "Спагетти с говядиной",
+      "type": "Закуска с тестом",
+      "description": "Спагетти с говядиной и овощами в соусе Демиглас",
+      "compound": "спагетти, говядина, овощи, соус",
+      "weight": "400",
+      "price": "390",
+      "img": "Server/img/spagetti_s_govyadinoy_i_ovoshchami_v_souse_demiglyass.png"
+    },
+    {
+      "name": "Пицца Маргарита",
+      "type": "Закуска с тестом",
+      "description": "Томатный соус, сыр",
+      "compound": "",
+      "weight": "450",
+      "price": "415",
+      "img": "Server/img/picca_margarita.png"
+    },
+    {
+      "name": "Спагетти с копченной курицей",
+      "type": "Закуска с тестом",
+      "description": "Спагетти с копченой курицей и грибами ",
+      "compound": "",
+      "weight": "250",
+      "price": "435",
+      "img": "Server/img/spagetti_s_kopchenoy_kuricey_i_gribami.jpg"
+    },
+
+    {
+      "name": "Пицца с курицей и краковской колбасой ",
+      "type": "Закуска с тестом",
+      "description": "",
+      "compound": "",
+      "weight": "500",
+      "price": "450",
+      "img": "Server/img/img-5896.jpg"
+    },
+
+    {
+      "name": "Бургер классический",
+      "type": "Закуска с тестом",
+      "description": "",
+      "compound": "Говядина, лист салата, томат свежий, огурец соленый, сыр",
+      "weight": "",
+      "price": "430",
+      "img": "Server/img/burger_klassicheskiy_0.jpg"
+    },
+
+    {
+      "name": "Хачапури по-аджарски",
+      "type": "Закуска с тестом",
+      "description": "",
+      "compound": "",
+      "weight": "350",
+      "price": "370",
+      "img": "Server/img/hachapuri_po-adzharksi.jpg"
+    },
+
+    {
+      "name": "Пицца Пепперони",
+      "type": "Закуска с тестом",
+      "description": "Томатный соус, пепперони, сыр",
+      "compound": "",
+      "weight": "450",
+      "price": "470",
+      "img": "Server/img/picca_pepperoni.jpg"
+    },
+
+    {
+      "name": "Спагетти Карбонара",
+      "type": "Закуска с тестом",
+      "description": "Паста карбонара — спагетти с мелкими кусочками бекона, смешанные с соусом из яиц, сыра пармезан и пекорино романо, соли и свежемолотого чёрного перца",
+      "compound": "",
+      "weight": "250",
+      "price": "480",
+      "img": "Server/img/karbonara.jpg"
+    },
+
+    {
+      "name": "Чикен бургер",
+      "type": "Закуска с тестом",
+      "description": "Куриное филе, салатный лист, сыр, бекон, свежий томат, соус грибной",
+      "compound": "",
+      "weight": "",
+      "price": "445",
+      "img": "Server/img/chiken_burger_0.jpg"
+    },
+
+    {
+      "name": "Пицца с беконом",
+      "type": "Закуска с тестом",
+      "description": "Пицца с беконом, болгарским перцем и красным луком на соусе Барбекю",
+      "compound": "",
+      "weight": "480",
+      "price": "470",
+      "img": "Server/img/picca_s_bekonom_bolgarskim_percem_i_krasnym_lukom_na_souse_barbekyu.png"
+    },
+
+    {
+      "name": "Пицца Мясная",
+      "type": "Закуска с тестом",
+      "description": "Томатный соус, ростбиф, копченая курица, халапеньо, сыр, краковская колбаса",
+      "compound": "",
+      "weight": "450",
+      "price": "465",
+      "img": "Server/img/picca_myasnaya_.jpg"
+    },
+
+    {
+      "name": "Вок с креветками и овощами в соусе сладкий чили",
+      "type": "Закуска с тестом",
+      "description": "",
+      "compound": "",
+      "weight": "400",
+      "price": "440",
+      "img": "Server/img/vok_s_krevetkami_i_ovoshchami_v_souse_sladkiy_chili.png"
+    },
+
+    {
+      "name": "Пицца Кессар",
+      "type": "Закуска с тестом",
+      "description": "Моцарела, куриное филе",
+      "compound": "",
+      "weight": "450",
+      "price": "470",
+      "img": "Server/img/picca_kessar.jpg"
+    },
+
+    {
+      "name": "Тако с креветкой",
+      "type": "Закуска с тестом",
+      "description": "Креветка, сыр Дор-блю, свежий томат, салатный лист, сладкий чили",
+      "compound": "",
+      "weight": "",
+      "price": "465",
+      "img": "Server/img/tako_s_krevetkoy.jpg"
+    },
+
+    {
+      "name": " Хачапури по-мегрельски",
+      "type": "Закуска с тестом",
+      "description": "Сулугуни, моцарелла",
+      "compound": "",
+      "weight": "450",
+      "price": "495",
+      "img": "Server/img/hachapuri_po-megrelski.jpg"
+    },
+
+    {
+      "name": "Похлебка с маслятами и чечевицей",
+      "type": "Суп",
+      "description": "",
+      "compound": "Лук, морковь, маслята, чечевица, масло растительное, чеснок",
+      "weight": "300",
+      "price": "135",
+      "img": "Server/img/pohlebka_s_maslyatami_i_chechevicey.jpg"
+    },
+
+    {
+      "name": "Холодный суп",
+      "type": "Суп",
+      "description": "",
+      "compound": "греческий йогурт, копченая курица,свежий огурец, фосоль",
+      "weight": "300",
+      "price": "235",
+      "img": "Server/img/holodnyy_sup_na_grecheskom_yogurte_s_kopchenoy_kuricey_svezhim_ogurcom_i_fasolyu_.png"
+    },
+
+    {
+      "name": "Суп с нутом",
+      "type": "Суп",
+      "description": "",
+      "compound": "нут,печеный перец,охотничьи колбаски",
+      "weight": "300",
+      "price": "265",
+      "img": "Server/img/sup_s_nutom_pechenym_percem_i_ohotnichimi_kolbaskami_.png"
+    },
+
+    {
+      "name": "Фо-бо со свиным ребром",
+      "type": "Суп",
+      "description": "",
+      "compound": "Ребро свиное, рисовая лапша, бобы, лук красный, чили",
+      "weight": "350",
+      "price": "220",
+      "img": "Server/img/fo-bo_so_svinym_rebrom.jpg"
+    },
+
+    {
+      "name": "Крем суп",
+      "type": "Суп",
+      "description": "Крем суп из цукини со слабосоленым лососем",
+      "compound": "",
+      "weight": "280/15/30",
+      "price": "315",
+      "img": "Server/img/krem_sup_iz_cukinni_so_slabosolnym_lososem.png"
+    },
+
+    {
+      "name": "Грибной крем",
+      "type": "суп",
+      "description": "",
+      "compound": "",
+      "weight": "300",
+      "price": "315",
+      "img": "Server/img/gribnoy_krem.jpg"
+    },
+
+    {
+      "name": "Борщ",
+      "type": "Суп",
+      "description": "",
+      "compound": "",
+      "weight": "300",
+      "price": "300",
+      "img": "Server/img/borshch.jpg"
+    },
+
+    {
+      "name": "Томатный суп",
+      "type": "Суп",
+      "description": "Томатный суп c лангустинами и моцареллой",
+      "compound": "",
+      "weight": "300",
+      "price": "330",
+      "img": "Server/img/tomatnyy_sup_iz_langustinami_i_mocarelloy_.png"
+    },
+
+    {
+      "name": "Солянка",
+      "type": "Суп",
+      "description": "",
+      "compound": "",
+      "weight": "300",
+      "price": "400",
+      "img": "Server/img/solyanka.jpg"
+    },
+
+    {
+      "name": "Томатный суп",
+      "type": "Суп",
+      "description": "",
+      "compound": "Креветка, куриное филе, черри, лемонграсс",
+      "weight": "400",
+      "price": "530",
+      "img": "Server/img/tomatnyy_0.jpg"
+    },
+
+    {
+      "name": "Говядина по-строгановски",
+      "type": "Горячее",
+      "description": "",
+      "compound": "Говядина, грибы, соленый огурец, сливки, лук",
+      "weight": "320",
+      "price": "370",
+      "img": "Server/img/govyadina_po-stroganovski.jpg"
+    },
+
+    {
+      "name": "Свиные ребра",
+      "type": "Горячее",
+      "description": "Свиные ребра, глазированные в соусе Барбекю",
+      "compound": "ребра свиные, соус барбекю, кукуруза в початке",
+      "weight": "200/100/50",
+      "price": "340",
+      "img": "Server/img/svinye_rebra_glazirovannye_v_souse_barbekyu_0.jpg"
+    },
+
+    {
+      "name": "Куриный рулет",
+      "type": "Горячее",
+      "description": "Куриный рулет с муссом из бекона и сыра",
+      "compound": "Куриное филе, бекон, грибы, сливочный сыр, картофель",
+      "weight": "350",
+      "price": "350",
+      "img": "Server/img/kurinyy_rulet_s_mussom_iz_bekona_i_syra.jpg"
+    },
+
+    {
+      "name": "Ломтики свиной вырезки",
+      "type": "Горячее",
+      "description": "Ломтики свиной вырезки, обжаренные в соевом кляре, гарнированные овощами вок в азиатском соусе",
+      "compound": "",
+      "weight": "150/120",
+      "price": "340",
+      "img": "Server/img/lomtiki_svinoy_vyrezki_obzharennye_v_soevom_klyare_garnirovannye_ovoshchami_vok_v_aziatskom_souse.png"
+    },
+
+    {
+      "name": "Котлеты из щуки",
+      "type": "Горячее",
+      "description": "Котлетки из щуки с разваренной полбой, маслятами и соусом Бешамель",
+      "compound": "Филе щуки, лук, полба отварная, маслята, соус бешамель, масло сливочное, чеснок",
+      "weight": "150/150/50",
+      "price": "435",
+      "img": "Server/img/kotletki_iz_shchuki_s_razvarennoy_polboy_maslyatami_i_sousom_beshamel_ (1).jpg"
+    },
+
+    {
+      "name": "Медальоны",
+      "type": "Горячее",
+      "description": "Медальоны из свиной вырезки в беконе с картофелем Гратен",
+      "compound": "Свиная вырезка, бекон, картофель отварной, соус бешамель, пармезан, моцарелла",
+      "weight": "170/150",
+      "price": "435",
+      "img": "Server/img/medalony_iz_svinoy_vyrezki_v_bekone_s_kartofelm_graten.jpg"
+    },
+
+    {
+      "name": "Муксун гриль",
+      "type": "Горячее",
+      "description": "Муксун гриль с печеным картофелем ",
+      "compound": "Муксун, сметана, картофель",
+      "weight": "250",
+      "price": "465",
+      "img": "Server/img/muksun_gril_s_pechenym_kartofelem.jpg"
+    },
+
+    {
+      "name": "Семга",
+      "type": "Горячее",
+      "description": "Семга с соусом Маракуйя",
+      "compound": "Семга, соус из маракуйи",
+      "weight": "270",
+      "price": "965",
+      "img": "Server/img/semga_s_sousom_marakuyya.jpg"
+    },
+
+    {
+      "name": "Картофель печеный",
+      "type": "Гарнир",
+      "description": "",
+      "compound": "",
+      "weight": "200",
+      "price": "115",
+      "img": "Server/img/kartofel_pechenyy.jpg"
+    },
+
+    {
+      "name": "Овощи на гриле ",
+      "type": "гарнир",
+      "description": "",
+      "compound": "",
+      "weight": "150",
+      "price": "180",
+      "img": "Server/img/ovoshchi_na_grile.jpg"
+    },
+
+    {
+      "name": "Шампиньоны на гриле",
+      "type": "Гарнир",
+      "description": "",
+      "compound": "",
+      "weight": "150",
+      "price": "250",
+      "img": "Server/img/shampinony_na_grile.jpg"
+    },
+    {
+      "name": "Картофель фри",
+      "type": "Гарнир",
+      "description": "",
+      "compound": "",
+      "weight": "150",
+      "price": "140",
+      "img": "Server/img/kartofel_fri.jpg"
+    },
+    {
+      "name": "Картофельные дольки",
+      "type": "Гарнир",
+      "description": "",
+      "compound": "",
+      "weight": "150",
+      "price": "140",
+      "img": "Server/img/dolki.jpg"
+    },
+    {
+      "name": "Ассорти шашлыков",
+      "type": "На компанию",
+      "description": "",
+      "compound": "Курица, рёбра свиные, свинина",
+      "weight": "500/300",
+      "price": "1115",
+      "img": "Server/img/assorti_shashlykov.jpg"
+    },
+    {
+      "name": "Ассорти колбасок",
+      "type": "На компанию",
+      "description": "с 3 видами соуса",
+      "compound": "",
+      "weight": "600",
+      "price": "1365",
+      "img": "Server/img/assorti_kolbasok.jpg"
+    },
+    {
+      "name": "Ассорти шашлыков из птицы",
+      "type": "На компанию",
+      "description": "",
+      "compound": "Шашлык из бедра курицы, шашлык из филе индейки, крылья куриные, люля из курицы, шампиньоны, соус шашлычный",
+      "weight": "700/200",
+      "price": "1215",
+      "img": "Server/img/assorti_shashlykov_iz_pticy.jpg"
+    },
+    {
+      "name": "Ассорти мангальщика",
+      "type": "На компанию",
+      "description": "",
+      "compound": "Люля из курицы, люля из говядины, шашлык из свинины, шашлык из куриного филе",
+      "weight": "600/200",
+      "price": "1115",
+      "img": "Server/img/assorti_mangalshchika.jpg"
+    },
+    {
+      "name": "Морская тарелка",
+      "type": "На компанию",
+      "description": "",
+      "compound": "Мидии с сыром, кальмар гриль, креветка гриль",
+      "weight": "550",
+      "price": "1400",
+      "img": "Server/img/morskaya_tarelka.jpg"
+    },
+    {
+      "name": "Рыбные дары",
+      "type": "На компанию",
+      "description": "",
+      "compound": "Муксун, фермерская форель, дорадо",
+      "weight": "700",
+      "price": "2550",
+      "img": "Server/img/rybnye_dary_0.jpg"
+    },
+    {
+      "name": "Меренговый рулет",
+      "type": "Десерт",
+      "description": "baiser — поцелуй), мере́нга (фр. meringue) — французское пирожное из запечённых взбитых яичных белков и сахара. Словом безе также называют кондитерский крем, приготавливаемый из тех же продуктов, что и пирожное",
+      "compound": "",
+      "weight": "150",
+      "price": "210",
+      "img": "Server/img/merengoy_rulet.png"
+    },
+    {
+      "name": "Фондан шоколадный",
+      "type": "Десерт",
+      "description": "Шоколадный фондан — популярное французское десертное блюдо, кекс из шоколадного бисквитного теста. Его особенностью является твёрдая хрустящая оболочка и жидкая сердцевина",
+      "compound": "",
+      "weight": "170",
+      "price": "230",
+      "img": "Server/img/milaclub-shokoladnyj-fondan.jpg"
+    },
+    {
+      "name": "Нарезной медовый торт с брусничным конфи",
+      "type": "Десерт",
+      "description": "",
+      "compound": "",
+      "weight": "120",
+      "price": "195",
+      "img": "Server/img/we.jpg"
+    },
+    {
+      "name": "Мусс из авакадо",
+      "type": "Десерт",
+      "description": "Мусс (фр. mousse — «пена») — несладкое или сладкое блюдо, являющееся фирменным для французской кухни",
+      "compound": "",
+      "weight": "180",
+      "price": "300",
+      "img": "Server/img/rec.jpg"
+    },
+    {
+      "name": "Шоколадно-кокосовое эскимо с вишней",
+      "type": "Десерт",
+      "description": "",
+      "compound": "",
+      "weight": "100",
+      "price": "210",
+      "img": "Server/img/shokoladno-kokosovoe_eskimo_s_vishney.png"
+    },
+    {
+      "name": "Крем-брюле",
+      "type": "Десерт",
+      "description": "Крем-брюле́ — десерт из заварного крема с карамельной корочкой",
+      "compound": "",
+      "weight": "200",
+      "price": "250",
+      "img": "Server/img/asdasf.jpg"
+    },
+    {
+      "name": "Клубнично-муссовое сердце",
+      "type": "Десерт",
+      "description": "",
+      "compound": "",
+      "weight": "100",
+      "price": "290",
+      "img": "Server/img/klubnichno-mussovoe_serdce.png"
+    },
+    {
+      "name": "Чизкейк Сан Себастьян",
+      "type": "Десерт",
+      "description": "",
+      "compound": "",
+      "weight": "110",
+      "price": "215",
+      "img": "Server/img/chizkeyk_san_sebastyan_.png"
+    },
+    {
+      "name": "Кокосовая панна-котта",
+      "type": "Десерт",
+      "description": "Панна-котта — североитальянский десерт из сливок, сахара, желатина и ванили",
+      "compound": "",
+      "weight": "200",
+      "price": "280",
+      "img": "Server/img/asdasve.jpg"
+    }
+  ],
+  "Bar": [
+    {
+      "name":"Эспрессо",
+      "type":"Кофе",
+      "country":"",
+      "description": "Эспре́ссо (от итал. espresso[1]) — метод приготовления кофе путём прохождения горячей воды (92-96 °C) под давлением (около 9 бар) через фильтр с молотым кофе.",
+      "alc": "",
+      "volume": "30",
+      "price": "100",
+      "img":"Server/img/274px-Espresso_and_napolitains.jpg"
+    },
+    {
+      "name":"Американо",
+      "type":"Кофе",
+      "country":"",
+      "description": "Америка́но (итал. Caffè Americano — кофе по-американски) — способ приготовления кофе, заключающийся в соединении определённого количества горячей воды и эспрессо",
+      "alc": "",
+      "volume": "150",
+      "price": "100",
+      "img":"Server/img/Hokitika_Cheese_and_Deli,_Hokitika_(3526706594).jpg"
+    },
+    {
+      "name":"Капучино",
+      "type":"Кофе",
+      "country":"",
+      "description": "Капучи́но (от итал. cappuccino — капуцин) — кофейный напиток итальянской кухни на основе эспрессо с добавлением в него подогретого вспененного молока.",
+      "alc": "",
+      "volume": "180",
+      "price": "150",
+      "img":"Server/img/274px-Classic_Cappuccino.jpg"
+    },
+    {
+      "name":"Доппио капучино",
+      "type":"Кофе",
+      "country":"",
+      "description": "Доппио или эспрессо доппио – двойная порция эспрессо, кофе, приготовленный так же, как обычный эспрессо, но в двойном объеме. Собственно, слово doppio в переводе с итальянского и означает «двойной»",
+      "alc": "",
+      "volume": "300",
+      "price": "230",
+      "img":"Server/img/"
+    },
+    {
+      "name":"Латте",
+      "type":"Кофе",
+      "country":"",
+      "description": "Ла́тте (англизированный и сокращённый вариант от итал. caffè latte [kaffeˈlatte] — «кофе с молоком»)[1] — кофейный напиток, на основе молока, представляющий собой трёхслойную смесь из пены, молока (итал. latte) и кофе эспрессо[2]. Был изобретён в Италии.",
+      "alc": "",
+      "volume": "230",
+      "price": "180",
+      "img":"Server/img/Latte_art_3.jpg"
+    },
+    {
+      "name":"Латте макиато",
+      "type":"Кофе",
+      "country":"",
+      "description": "Ла́тте макиа́то (итал. latte macchiato ['latːe maˈkːjaˑto] — «запятнанное молоко») — горячий кофейный напиток, приготавливаемый путём вливания в молоко кофе-эспрессо в пропорции 3:1. Итальянское macchia обозначает маленькое пятнышко кофе, остающееся на поверхности молочной пены.",
+      "alc": "",
+      "volume": "230",
+      "price": "180",
+      "img":"Server/img/Latte_macchiato.jpg"
+    },
+    {
+      "name":"Минадльный хот-крим",
+      "type":"Кофе",
+      "country":"",
+      "description": "--",
+      "alc": "",
+      "volume": "300",
+      "price": "250",
+      "img":"Server/img/"
+    },
+    {
+      "name":"Кофе с мятным мороженым",
+      "type":"Кофе",
+      "country":"",
+      "description": "Обжареный и свареный кофе",
+      "alc": "",
+      "volume": "200",
+      "price": "280",
+      "img":"Server/img/"
+    },
+    {
+      "name":"Шоколадный айс-кофе",
+      "type":"Кофе",
+      "country":"",
+      "description": "Холодный кофе с шоколадным сиропом",
+      "alc": "",
+      "volume": "200",
+      "price": "230",
+      "img":"Server/img/"
+    },
+    {
+      "name":"Бёрн",
+      "type":"Энергетичческие напитки",
+      "country":"",
+      "description": "",
+      "alc": "",
+      "volume": "300",
+      "price": "250",
+      "img":"Server/img/14749.png"
+    },
+    {
+      "name":"Red Bull",
+      "type":"Энергетичческие напитки",
+      "country":"",
+      "description": "",
+      "alc": "",
+      "volume": "250",
+      "price": "250",
+      "img":"Server/img/redbull.jpg"
+    },
+    {
+      "name":"Red Bull без сахара",
+      "type":"Энергетичческие напитки",
+      "country":"",
+      "description": "",
+      "alc": "",
+      "volume": "250",
+      "price": "250",
+      "img":"Server/img/53.jpg"
+    },
+    {
+      "name":"Red Bull Тропические фрукты",
+      "type":"Энергетичческие напитки",
+      "country":"",
+      "description": "",
+      "alc": "",
+      "volume": "250",
+      "price": "2050",
+      "img":"Server/img/img_id2405505201938088290-600x600-364.jpeg"
+    },
+    {
+      "name":"Шарм Велли",
+      "type":"Игристое вино",
+      "country":"Россия",
+      "description": "Белое полусладкое.Аромат напитка наполнен тонами спелых персиков и сочной маракуйи. Вкус напитка освежающий и деликатный, с тонами тропических фруктов. Напиток рекомендуется подать к легким закускам, сырным ассорти, десертами, мороженому и сладким фруктам.",
+      "alc": "7.5",
+      "volume": "750",
+      "price": "550",
+      "img":"Server/img/0_0_prod_desktop.jpg"
+    },
+    {
+      "name":"Российское Шампанское",
+      "type":"Игристое вино",
+      "country":"Россия",
+      "description": "Полусухое белое.",
+      "alc": "10.5-13",
+      "volume": "750",
+      "price": "650",
+      "img":"Server/img/"
+    },
+    {
+      "name":"Дуэт Брют",
+      "type":"Игристое вино",
+      "country":"Испания",
+      "description": "Белое сухое(брют).Игристое вино обладает свежим, мягким ароматом с нотами белых фруктов, орехов, свежей выпечки и трав.Игристое вино демонстрирует освежающий, изысканный вкус с нотами белых фруктов, трав и выпечки, с приятной кислинкой и нежным послевкусием.Игристое вино подается в качестве аперитива. Также оно превосходно сочетается с морепродуктами, рыбой и деликатными мясными блюдами.",
+      "alc": "10.5",
+      "volume": "750",
+      "price": "1700",
+      "img":"Server/img/duet.jpg"
+    },
+    {
+      "name":"Дуэт Розе",
+      "type":"Игристое вино",
+      "country":"Испания",
+      "description": "Розовое,сухое.Игристое вино привлекает освежающим ароматом с нотами экзотических фруктов, клубники и минералов.Игристое вино демонстрирует гармоничный, свежий вкус с фруктовыми оттенками, мягкой кислинкой и интригующим послевкусием.Игристое вино подается в качестве аперитива. Также оно превосходно сочетается с морепродуктами, рыбой и деликатными мясными блюдами.",
+      "alc": "10.5",
+      "volume": "750",
+      "price": "1700",
+      "img":"Server/img/duetrose.jpg"
+    },
+    {
+      "name":"Чинзано Асти DOCG",
+      "type":"Игристое вино",
+      "country":"Италия",
+      "description": "Белое, сладкое.Очень красивый, насыщенный аромат вина раскрывается оттенками цветущей акации, нюансами шалфея, персика, дыни, ванили. Вкус вина сладкий, ароматный, нежный и настойчивый, с нотками меда и спелого персика, груши и душистых трав.Вино идеально в качестве аперитива, в сочетании с десертами, выпечкой, бисквитами, печеньем.",
+      "alc": "7",
+      "volume": "750",
+      "price": "2400",
+      "img":"Server/img/cinZanoAsti.jpg"
+    },
+    {
+      "name":"Максимилиан Просекко DOC",
+      "type":"Игристое вино",
+      "country":"Италия",
+      "description": "Белое,сухое.Вкус:Мягкий, освежающий, плотный, гармоничный вкус вина обладает сбалансированной кислотностью, сочными фруктовыми тонами и сухим, приятным послевкусием с цветочными нюансами.Аромат:Свежий, выразительный, гармоничный аромат игристого вина соткан из нот цитрусовых фруктов, яблока и белых цветов.Гастрономические сочетания:Игристое вино рекомендуется подавать как аперитив, оно прекрасно сочетается практически с любым блюдом во время трапезы, особенно с закусками, салатами и морепродуктами.",
+      "alc": "11.5",
+      "volume": "750",
+      "price": "2400",
+      "img":"Server/img/MaximillianI.jpg"
+    },
+    {
+      "name":"Ламбруско Бианко дель Эмилия IGT",
+      "type":"Игристое вино",
+      "country":"Италия",
+      "description": "Белое, полусладкое.Вкус:Игристое вино обладает сладковатым, гармоничным, нежным, легким вкусом с нотами спелых фруктов и миндаля, гладкой текстурой и приятным послевкусием.Аромат:Нежный аромат игристого вина окутывает легкими цветочными нотами на фоне более ярких фруктовых.Гастрономические сочетания:Игристое вино идеально в качестве аперитива и благодаря своей универсальности прекрасно сочетается с различными блюдами средиземноморской кухни.",
+      "alc": "8",
+      "volume": "750",
+      "price": "1300",
+      "img":"Server/img/0 Lambrusco dell'Emilia.jpg"
+    },
+    {
+      "name":"Ламбруско Россо дель Эмилия IGT",
+      "type":"Игристое вино",
+      "country":"Италия",
+      "description": "Красное,полусладкое.Вкус:Легкий, питкий вкус игристого вина украшен тонами красных фруктов и намеками пряностей.Аромат:В насыщенном аромате игристого вина доминируют сладкие фруктовые акценты.Гастрономические сочетания:Вино служит аперитивом, подается к легким фруктовым десертам.",
+      "alc": "8",
+      "volume": "750",
+      "price": "1300",
+      "img":"Server/img/Lunato.jpg"
+    },
+
+    {
+      "name":"",
+      "type":"",
+      "country":"",
+      "description": "",
+      "alc": "",
+      "volume": "",
+      "price": "",
+      "img":"Server/img/"
+    }
+
+
+
+  ]
+}
